@@ -71,7 +71,7 @@ flask==1.0.4 \
     --hash=sha256:1a21ccca71cee5e55b6a367cc48c6eb47e3c447f76e64d41f3f3f931c17e7c96 \
     --hash=sha256:ed1330220a321138de53ec7c534c3d90cf2f7af938c7880fc3da13aa46bf870f \
     # via aws-sam-cli (setup.py)
-future==0.18.2 \
+future==0.18.3 \
     --hash=sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d \
     # via cookiecutter
 idna==2.9 \
