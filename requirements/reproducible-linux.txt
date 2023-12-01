@@ -54,7 +54,7 @@ cookiecutter==1.6.0 \
     --hash=sha256:1316a52e1c1f08db0c9efbf7d876dbc01463a74b155a0d83e722be88beda9a3e \
     --hash=sha256:ed8f54a8fc79b6864020d773ce11539b5f08e4617f353de1f22d23226f6a0d36 \
     # via aws-sam-cli (setup.py)
-dateparser==0.7.4 \
+dateparser==1.1.6 \
     --hash=sha256:1b1f0e3034f82d1f92b45fa445826da6a36d67af8a1169e04869685594276011 \
     --hash=sha256:fb5bfde4795fa4b179fe05c2c25b3981f785de26bec37e247dee1079c63d5689 \
     # via aws-sam-cli (setup.py)
