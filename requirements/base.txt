@@ -14,3 +14,4 @@ requests==2.23.0
 serverlessrepo==0.1.9
 aws_lambda_builders==1.0.0
 tomlkit==0.5.8
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
