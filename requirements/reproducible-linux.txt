@@ -188,7 +188,7 @@ regex==2020.4.4 \
     --hash=sha256:ea4adf02d23b437684cd388d557bf76e3afa72f7fed5bbc013482cc00c816948 \
     --hash=sha256:fb95debbd1a824b2c4376932f2216cc186912e389bdb0e27147778cf6acb3f89 \
     # via dateparser
-requests==2.23.0 \
+requests==2.32.0 \
     --hash=sha256:43999036bfa82904b6af1d99e4882b560e5e2c68e5c4b0aa03b655f3d7d73fee \
     --hash=sha256:b3f43d496c6daba4493e7c431722aeb7dbc6288f52a6e04e7b6023b0247817e6 \
     # via aws-sam-cli (setup.py), cookiecutter, docker
