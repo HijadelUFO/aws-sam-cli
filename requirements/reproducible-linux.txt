@@ -232,7 +232,7 @@ whichcraft==0.6.1 \
     --hash=sha256:acdbb91b63d6a15efbd6430d1d7b2d36e44a71697e93e19b7ded477afd9fce87 \
     --hash=sha256:deda9266fbb22b8c64fd3ee45c050d61139cd87419765f588e37c8d23e236dd9 \
     # via cookiecutter
-zipp==3.1.0 \
+zipp==3.19.1 \
     --hash=sha256:aa36550ff0c0b7ef7fa639055d797116ee891440eac1a56f378e2d3179e0320b \
     --hash=sha256:c599e4d75c98f6798c509911d08a22e6c021d074469042177c8c86fb92eefd96 \
     # via importlib-metadata
